@@ -1,0 +1,20 @@
+1901|Rene Wis|1858|1933|French|French, English|For her multi-ethnic literature|Fiction, Poetry
+1902|Theodor Mommsen|1817|1903|German|German|For his multi-volume work on Roman history|Non-Fiction, History
+1903|Bjørnstjerne Bjørnson|1832|1910|Norwegian|Norwegian|For his poetry and contributions to Norwegian literature|Poetry,Drama
+1904|José Echegaray|1832|1916|Spanish|Spanish|For his numerous and distinguished compositions in the dramatic form|Drama
+1905|Henryk Sienkiewicz|1846|1916|Polish|Polish|For his outstanding merits as an epic writer|Fiction, Historical Fiction
+1906|Giosuè Carducci|1835|1907|Italian|Italian|Not available|Poetry
+1907|Rudyard Kipling|1865|1936|British|English|In consideration of the power of observation, originality of imagination, virility of ideas and remarkable talent for narration which characterize the creations of this world-famous author|Fiction, Short Stories
+1908|Rudolf Christoph Eucken|1846|1926|German|German|For his earnest search for truth, his penetrating power of thought, his wide range of vision, and the warmth and strength in presentation with which in his numerous works he has vindicated and developed an idealistic philosophy of life|Philosophy, Non-Fiction
+1909|Selma Lagerlöf|1858|1940|Swedish|Swedish|In appreciation of the lofty idealism, vivid imagination and spiritual perception that characterize her writings|Fiction, Children's Literature
+1910|Paul Heyse|1830|1914|German|German|As a tribute to the consummate artistry, permeated with idealism, which he has demonstrated during his long productive career as a lyric poet, dramatist, novelist and writer of world-renowned short stories|Fiction, Poetry, Drama
+1911|Maurice Maeterlinck|1862|1949|Belgian|French|In appreciation of his many-sided literary activities, and especially of his dramatic works, which are distinguished by a wealth of imagination and by a poetic fancy, which reveals, sometimes in the guise of a fairy tale, a deep inspiration, while in a mysterious way they appeal to the readers' own feelings and stimulate their imaginations|Drama, Poetry
+1912|Gerhart Hauptmann|1862|1946|German|German|In recognition of his fruitful, varied and outstanding production in the realm of dramatic art|Drama, Fiction
+1913|Rabindranath Tagore|1861|1941|Indian|Bengali, English|Because of his profoundly sensitive, fresh and beautiful verse, by which, with consummate skill, he has made his poetic thought, expressed in his own English words, a part of the literature of the West|Poetry, Fiction, Essays
+1914|Not Awarded|0000|0000|Not Awarded| | |
+1915|Romain Rolland|1866|1944|French|French|As a tribute to the lofty idealism, vivid imagination and spiritual perception that characterize his writings|Fiction, Drama, Biography
+1916|Verner von Heidenstam|1859|1940|Swedish|Swedish|In recognition of his significance as the leading representative of a new era in our literature|Poetry, Fiction
+1917|Karl Adolph Gjellerup, Henrik Pontoppidan|1857, 1857|1919, 1943|Danish|Danish|For their contribution to the development of a new period in our literature through their great merit as epic writers|Fiction, Poetry, Drama
+1918|Not Awarded|0000|0000|Not Awarded| | |
+1919|Carl Spitteler|1845|1924|Swiss|German|In special appreciation of his epic, Olympian Spring, which has won acceptance as a valid contribution to contemporary literature|Fiction, Poetry
+1920|Knut Hamsun|1859|1952|Norwegian|Norwegian|For his monumental work, Growth of the Soil, a monumental work of narrative art and inspired by lofty ideals|Fiction, Novel
